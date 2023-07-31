@@ -1,0 +1,155 @@
+# textdomain: xdecor
+# Author: Salvo 'LtWorf' Tomaselli <tiposchi@tiscali.it>
+
+### chess.lua ###
+
+Black Bishop=Alfil negro
+Black King=Rey negro
+Black Knight=Caballo negro
+Black Pawn=Peón negro
+Black Queen=Reina negra
+Black Rook=Torre negra
+Chess=Ajedrez
+Chess Board=Tablero de ajedrez
+Dumb AI=Inteligencia artificial tonta
+Multiplayer=Multijugador
+New game=Nueva partida
+Select a mode:=Selecciona modo de juego:
+Singleplayer=Un solo jugador
+Someone else plays black pieces!=¡Otra persona juega con las negras!
+Someone else plays white pieces!=¡Otra persona juega con las blancas!
+White Bishop=Alfil blanco
+White King=Rey blanco
+White Knight=Caballo blanco
+White Pawn=Peón blanco
+White Queen=Reina blanca
+White Rook=Torre blanca
+
+You can't dig the chessboard, a game has been started. Reset it first if you're a current player, or dig it again in @1=No pueedes destruir el tablero. Hay una partida en juego. Si estás jugando reinicia el tablero o inténtalo otra vez en @1
+
+You can't reset the chessboard, a game has been started. If you aren't a current player, try again in @1=No puedes reiniciar el tablero. Hay una partida en juego. Si no estás jugando, inténtalo de nuevo en @1
+
+check=jaque
+
+### cooking.lua ###
+
+Bowl=Bol
+Bowl of soup=Bol de sopa
+Cauldron=Caldero
+Cauldron (active)=Caldero (activo)
+Cauldron (active) - Drop foods inside to make a soup=Caldero (activo) - Mete ingredientes para hacer una sopa
+Cauldron (active) - Use a bowl to eat the soup=Caldero (activo) - Utiliza un bol para comer la sopa
+Cauldron (empty)=Caldero (vacío)
+Cauldron (idle)=Caldero (inactivo)
+No room in your inventory to add a bowl of soup.=No tienes espacio en tu inventario para añadir un bol de sopa.
+No room in your inventory to add a bucket of water.=No tienes espacio en tu inventario para añadir un cubo de agua.
+
+### enchanting.lua ###
+
+Axe=Hacha
+Bronze=Bronce
+Diamond=Diamante
+Durability=Durabilidad
+Efficiency=Eficacia
+Enchanted @1 @2 @3=@2 con @1 encantado @3
+Enchantment Table=Mesa de encantamiento
+Mese=Mese
+Pickaxe=Pico
+Sharpness=Filo
+Shovel=Pala
+Steel=Acero
+Sword=Espada
+Your tool digs faster=Tu herramienta cava más rápido
+Your tool last longer=Tu herramienta dura más
+Your weapon inflicts more damages=Tu arma hace más daño
+
+### hive.lua ###
+
+Artificial Hive=Colmena artificial
+Bees are busy making honey…=Las abejas están ocupadas haciendo miel…
+Honey=Miel
+
+### itemframe.lua ###
+
+@1 (owned by @2)=@1 (propiedad de @2)
+Item Frame=Marco
+
+### mailbox.lua ###
+
+@1's Mailbox=Buzón de @1
+Last donators=Últimos donantes
+Mailbox=Buzón
+Send your goods to@n@1=Envía tus objetos a@n@1
+The mailbox is full.=El buzón está lleno
+
+### mechanisms.lua ###
+
+Lever=Palanca
+Stone Pressure Plate=Panel de presión de piedra
+Wooden Pressure Plate=Panel de presión de madera
+
+### nodes.lua ###
+
+Bamboo Frame=Marco de bambú
+Baricade=Barricada
+Barrel=Barril
+Cactus Brick=Ladrillo de cáctus
+Candle=Vela
+Chainlink=Cota de malla
+Chair=Silla
+Coal Stone Tile=Baldosas de piedra de carbón
+Cobweb=Telaraña
+Cushion=Cojín
+Cushion Block=Bloque de cojines
+Desert Stone Tile=Baldosas de piedra del desierto
+Empty Shelf=Estante vacío
+Ender Chest=Cofre final
+Garden Stone Path=Sendero de piedra de jardín
+Half Wooden Cabinet=Medio armario de madera
+Hardened Clay=Arcilla endurecida
+Iron Light Box=Lámpara de hierro
+Ivy=Hiedra
+Japanese Door=Puerta japonesa
+Lantern=Farol
+Moon Brick=Ladrillo lunar
+Multi Shelf=Estante
+Packed Ice=Hielo compacto
+Painting=Pintura
+Potted Geranium=Geranio en maceta
+Potted Rose=Rosa en maceta
+Potted Tulip=Tulipán en maceta
+Potted Viola=Violeta en maceta
+Potted White Dandelion=Diente de león blanco en maceta
+Potted Yellow Dandelion=Diente de león amarillo en maceta
+Prison Door=Puera de cárcel
+Red Curtain=Cortina roja
+Runestone=Piedra rúnica
+Rusty Iron Bars=Barras de hierro oxidadas
+Rusty Prison Door=Puerta de cárcel oxidada
+Screen Door=Puerta de panel
+Slide Door=Puerta corredera
+Stone Tile=Baldosa de piedra
+Table=Mesa
+Tatami=Tatami
+Television=Televisión
+Trampoline=Trampolín
+Wood Frame=Marco de madera
+Wood Framed Glass=Cristal enmarcado
+Wooden Cabinet=Armario de madera
+Wooden Light Box=Lámpara de madera
+Wooden Tile=Baldosa de madera
+Woodglass Door=Puerta de madera acristalada
+
+### rope.lua ###
+
+Rope=Cuerda
+
+### workbench.lua ###
+
+Back=Atrás
+Crafting=Fabricar
+Cut=Cortar
+Hammer=Martillo
+Repair=Reparar
+Storage=Almacenaje
+Work Bench=Banco de trabajo
